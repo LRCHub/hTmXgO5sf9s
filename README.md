@@ -1,0 +1,71 @@
+# coldrain – Behind The Curtain
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+you live your life
+preying the sheep that
+do as they're told
+and stay in line
+your hands stay clean
+from the blood
+that's shed by
+your morbid empire
+the wall of lies
+you hide behind
+won't last forever
+show yourself
+we know it's you
+behind the curtain
+pretending like you care
+about everything
+and everyone
+when all
+you think about is you
+a hollow life
+was all you gave
+to the ones
+who trusted your every lie
+it's time to pay
+for everything
+you've done
+you can run
+but you can't fucking
+hide
+the wall of lies
+you hide behind
+won't last forever traitor
+until the day
+you pay the price
+we'll hunt you down
+traitor
+show yourself
+we know it's you
+behind the curtain
+pretending like you care
+about everything
+and everyone
+when all
+you think about is you
+you will pay
+for what you've done
+you will pay
+for what you've done
+you will pay
+for what you've done
+show yourself
+we know it's you
+behind the curtain
+show yourself
+we know it's you
+behind the curtain
+pretending like you care
+about everything
+and everyone
+but no matter
+how far you may run
+no matter where you try to hide
+in the end will hunt you down
+hunt you down
+hunt you down
+```
