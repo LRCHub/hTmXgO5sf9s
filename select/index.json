@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Behind The Curtain",
+  "base_artist": "coldrain",
+  "createdAt": "2026-02-22T06:39:30.816113Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Behind the Curtain",
+      "artist": "Ibeyi",
+      "has_synced": true,
+      "path": "select/01_Behind_the_Curtain_Ibeyi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Behind the Curtain",
+      "artist": "Wax Tailor",
+      "has_synced": true,
+      "path": "select/02_Behind_the_Curtain_Wax_Tailor.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Behind the Curtain \"Opening\"",
+      "artist": "Wax Tailor",
+      "has_synced": true,
+      "path": "select/03_Behind_the_Curtain__Opening_Wax_Tailor.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Behind The Curtain",
+      "artist": "Volumes",
+      "has_synced": false,
+      "path": "select/04_Behind_The_Curtain_Volumes.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Behind The Curtain",
+      "artist": "MISAMO",
+      "has_synced": true,
+      "path": "select/05_Behind_The_Curtain_MISAMO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Behind The Curtain",
+      "artist": "Volumes",
+      "has_synced": false,
+      "path": "select/06_Behind_The_Curtain_Volumes.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Man Behind the Curtain",
+      "artist": "Spock's Beard",
+      "has_synced": false,
+      "path": "select/07_Man_Behind_the_Curtain_Spock's_Beard.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Behind The Curtain",
+      "artist": "coldrain",
+      "has_synced": true,
+      "path": "select/08_Behind_The_Curtain_coldrain.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Behind the Curtain",
+      "artist": "Lion's Share",
+      "has_synced": false,
+      "path": "select/09_Behind_the_Curtain_Lion's_Share.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Behind the Curtain",
+      "artist": "Regenerator",
+      "has_synced": false,
+      "path": "select/10_Behind_the_Curtain_Regenerator.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Behind The Curtain",
+      "artist": "Narnia",
+      "has_synced": false,
+      "path": "select/11_Behind_The_Curtain_Narnia.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Behind the Curtain",
+      "artist": "coldrain",
+      "has_synced": true,
+      "path": "select/12_Behind_the_Curtain_coldrain.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Behind the Curtain",
+      "artist": "Volumes",
+      "has_synced": false,
+      "path": "select/13_Behind_the_Curtain_Volumes.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Behind the Curtain",
+      "artist": "Larry and His Flask",
+      "has_synced": true,
+      "path": "select/14_Behind_the_Curtain_Larry_and_His_Flask.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Man Behind the Curtain",
+      "artist": "Valient Thorr",
+      "has_synced": false,
+      "path": "select/15_Man_Behind_the_Curtain_Valient_Thorr.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Man Behind the Curtain",
+      "artist": "Spock’s Beard",
+      "has_synced": true,
+      "path": "select/16_The_Man_Behind_the_Curtain_Spock’s_Beard.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Behind the Curtain",
+      "artist": "Emptiness",
+      "has_synced": false,
+      "path": "select/17_Behind_the_Curtain_Emptiness.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Behind the Curtain",
+      "artist": "Injector",
+      "has_synced": false,
+      "path": "select/18_Behind_the_Curtain_Injector.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Behind The Curtain (Pardeh Neshin)",
+      "artist": "Alireza Ghorbani",
+      "has_synced": false,
+      "path": "select/19_Behind_The_Curtain_(Pardeh_Neshin)_Alireza_Ghorbani.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BEHIND THE CURTAIN",
+      "artist": "coldrain",
+      "has_synced": false,
+      "path": "select/pl_01_BEHIND_THE_CURTAIN_coldrain.txt"
+    }
+  ]
+}
